@@ -6,5 +6,5 @@ Paper URL: https://arxiv.org/abs/1801.07492
 It is implemented in Keras with Tensorflow as backend.
 
 ## Notes
-The code is under the cleaning process and will be published as soon as possible. Thanks for your interests!
+The code is under the cleaning process and will be published before mid October. Thanks for your interests!
 
